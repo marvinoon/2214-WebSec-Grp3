@@ -12,7 +12,7 @@ ExploitScan is a Chrome Extension that detects outdated components (Nginx, PHP, 
 - *Check for Outdated Nginx* - Checks the current Nginx version for the website and compares with the latest version.
 - *Check for Outdated PHP* - Checks the current PHP version for the website and compares with the latest version.
 - *Scan for PHPUnit CVE-2017-9841*.
-- *Report Generation* - Saves scan and exploit result in a structured report in txt format.
+- *Report Generation* - Saves scan and exploit result in a structured report in a .txt format.
 
 **Installation Guide**
 
