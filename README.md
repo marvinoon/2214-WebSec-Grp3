@@ -5,7 +5,7 @@ ExploitScan is a Chrome Extension that detects outdated components (Nginx, PHP, 
 
 **Features**
 
-*Scan for Reflected XSS* - Identifies reflected cross-site scripting vulnerabilities. 
+- *Scan for Reflected XSS* - Identifies reflected cross-site scripting vulnerabilities. 
 
 *Scan for Stored XSS* - Attempts to persist an XSS payload in forms.
 
