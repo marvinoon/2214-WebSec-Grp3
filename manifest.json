@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "ExploitScan",
+  "version": "2.2",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["scripting", "tabs", "activeTab"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
