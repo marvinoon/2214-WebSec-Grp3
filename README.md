@@ -14,9 +14,13 @@ ExploitScan is a Chrome Extension that detects outdated components (Nginx, PHP, 
 *Report Generation* - Saves scan and exploit result in a structured report in txt format
 
 **Installation Guide**
+
 *Step 1*: Clone Respository
+
 *Step 2*: Open Google Chrome and head to extensions
+
 *Step 3*: Enable Developer Mode
+
 *Step 4*: Click "Load Unpacked" and select the "ExploitScan" folder
 
 **How to use**
